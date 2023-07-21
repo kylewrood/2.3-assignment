@@ -1,0 +1,13 @@
+button{
+    background-color:rgb(1, 254, 199);
+    color:black;
+    padding:15px;
+    border:15px solid rgb(1, 254, 199);
+    border-radius:15px;
+    margin:10px;
+    width:150px;
+}
+
+td {
+    text-align:center;
+}
